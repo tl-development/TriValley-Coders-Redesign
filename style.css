@@ -1,0 +1,47 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	padding: 0;
+	margin: auto;
+}
+h4 {
+	text-align: center;
+}
+p {
+	text-align: center;
+}
+i {
+	color:white; 
+}
+header {
+	background-color:#262F36;
+	color: white;
+}
+#Mentors {
+	background-color: #67c372;
+	color: white;
+}
+#Sponsors {
+	background-color: #67c372;
+	color: white;
+}
+#School {
+	background-color: #67c372;
+	color: white;
+}
+.icons {
+	text-align: center;
+}
+/*.Events {
+	background-color: #67c372;
+	color: white;
+}*/
+#CTA {
+	background-color:#262F36;
+	color: white;
+}
+footer {
+	background-color:#262F36;
+	color: white;
+}

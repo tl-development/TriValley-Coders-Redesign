@@ -1,6 +1,4 @@
-* {
-	box-sizing: border-box;
-}
+
 body {
 	padding: 0;
 	margin: auto;
@@ -13,10 +11,16 @@ p {
 }
 i {
 	color:white; 
+	font-family: open sans, sans-serif;
+	font-size: 12px;
 }
 header {
-	background-color:#262F36;
+	background-image: url(images/hero.png);
 	color: white;
+}
+.button {
+	font-family: Helvetic, Arial, sans-serif 
+	font-size: 12px;
 }
 #Mentors {
 	background-color: #67c372;
@@ -33,15 +37,13 @@ header {
 .icons {
 	text-align: center;
 }
-/*.Events {
-	background-color: #67c372;
-	color: white;
-}*/
 #CTA {
-	background-color:#262F36;
-	color: white;
+    background-color:#262F36;
+    color: white;
+
 }
 footer {
 	background-color:#262F36;
 	color: white;
 }
+
